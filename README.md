@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a few interactive games for an ambitious project.
 
-- 👨‍💻 Most of my projects are private, so reach out for more info about them.
+- 👨‍💻 Most of my projects are private and right now cannot be shared, so reach out for more info about them.
 
 - 🌱 Every day I try to expand my knowledge in the world of programming.
 

@@ -1,7 +1,13 @@
 <h1 align="center">Welcome 👋 My name is Liad Halotzi</h1>
 <h3 align="center">I am a Game developer, Game designer and Student at Tiltan School of Design and Visual Communications</h3>
 
-- 📫 How to reach me? [LiadHalotzi@gmail.com](LiadHalotzi@gmail.com)
+- 🔭 I’m currently working on a few games for **Midbaryom** - The first interactive desert animal park in the world.
+
+- 👨‍💻 Most of my projects are private, so reach me for more info about them
+
+- 🌱 Every day I try to expand my knowledge in the world of programming.
+
+- 📫 How to reach me? You can send me a mail [](LiadHalotzi@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

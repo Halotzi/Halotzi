@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on a few games for **Midbaryom** - The first interactive desert animal park in the world.
 
-- 👨‍💻 Most of my projects are private, so reach me for more info about them
+- 👨‍💻 Most of my projects are private, so reach out for more info about them.
 
 - 🌱 Every day I try to expand my knowledge in the world of programming.
 
-- 📫 How to reach me? [Click here to send a mail](LiadHalotzi@gmail.com)
+- 📫 How to reach me? [Click here to send me an mail](LiadHalotzi@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

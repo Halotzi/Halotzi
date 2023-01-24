@@ -7,7 +7,7 @@
 
 - 🌱 Every day I try to expand my knowledge in the world of programming.
 
-- 📫 How to reach me? [Click here to send me an mail](LiadHalotzi@gmail.com)
+- 📫 Feel free to send me an email:  **LiadHalotzi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

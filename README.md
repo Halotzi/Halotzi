@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 📫 How to reach me: 
-Linkding - ![image](https://user-images.githubusercontent.com/93127041/214382810-ab3edd77-3458-459b-8216-a7a7721667ba.png) - https://www.linkedin.com/in/liad-halotzi-08b41254/
+Linkding - 
 
 
 <!--

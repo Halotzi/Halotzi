@@ -1,7 +1,8 @@
 <h1 align="center">Welcome 👋 My name is Liad Halotzi</h1>
 <h3 align="center">I am a Game developer, Game designer and Student at Tiltan School of Design and Visual Communications</h3>
 
-- 🔭 I’m currently working on a few games for **Midbaryom** - The first interactive desert animal park in the world.
+- 🔭 I’m currently working on a few interactive games for an ambitious project here is Israel ![image](https://user-images.githubusercontent.com/93127041/214399079-75e3f130-0223-4b45-a392-16765e447abc.png)
+.
 
 - 👨‍💻 Most of my projects are private, so reach out for more info about them.
 
